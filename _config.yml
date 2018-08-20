@@ -18,7 +18,7 @@ email: hitmewiththatgayshit69@gmail.com
 description: >-
  Hit me baby, one more time.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" 
+url: "https://thatgayshit.github.io" 
 
 # Build settings
 markdown: kramdown
