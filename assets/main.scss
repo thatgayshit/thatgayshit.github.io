@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+a {
+	color: #455071;
+}
+
+.site-header {
+  border-top: 5px solid #bbfffc;
+  background-color: #ffd6f2;
+}
+
+footer {
+  background-color: #ffd6f2;
+  border-bottom: 5px solid #bbfffc;
+}
